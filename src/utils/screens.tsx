@@ -1,4 +1,4 @@
 export enum Screen {
   Characters = 'Characters',
-  CharacterDetails = 'CharacterDetails'
+  CharacterDetails = 'CharacterDetails',
 }
